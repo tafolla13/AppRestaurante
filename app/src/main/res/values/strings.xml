@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="menu_home"></string>
+    <string name="main_dishes">Main Dishes</string>
+    <string name="main_history">History</string>
+    <string name="menu_report">Reportes</string>
+
+
+    <string name="navigation_drawer_open">Abrir la barra de navegacion</string>
+    <string name="navigation_drawer_close">Cerrar la barra de navegacion</string>
+
+    <string name="Titulo_login">Sweetly delicius</string>
+    <string name="Sing_up">Sign Up</string>
+    <string name="Sing_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="forgot">Forgot a Password</string>
+
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="name">Full Name</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_menu">ActivityMenu</string>
+    <string name="nav_header_title">Restaurant App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+   <!--HOME FRAGMENT-->
+    <string name="nom_perfil">Will Smith</string>
+    <string name="order">ORDERS</string>
+    <string name="order1">Order 1</string>
+    <string name="order2">Order 2</string>
+
+</resources>
